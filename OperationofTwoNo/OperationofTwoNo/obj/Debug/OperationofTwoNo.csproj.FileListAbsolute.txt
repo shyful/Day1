@@ -1,0 +1,6 @@
+D:\Shyful\OperationofTwoNo\OperationofTwoNo\bin\Debug\OperationofTwoNo.exe.config
+D:\Shyful\OperationofTwoNo\OperationofTwoNo\bin\Debug\OperationofTwoNo.exe
+D:\Shyful\OperationofTwoNo\OperationofTwoNo\bin\Debug\OperationofTwoNo.pdb
+D:\Shyful\OperationofTwoNo\OperationofTwoNo\obj\Debug\OperationofTwoNo.exe
+D:\Shyful\OperationofTwoNo\OperationofTwoNo\obj\Debug\OperationofTwoNo.pdb
+D:\Shyful\OperationofTwoNo\OperationofTwoNo\obj\Debug\OperationofTwoNo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Shyful\EventLogApp\EventLogApp\bin\Debug\EventLogApp.exe.config
+D:\Shyful\EventLogApp\EventLogApp\bin\Debug\EventLogApp.exe
+D:\Shyful\EventLogApp\EventLogApp\bin\Debug\EventLogApp.pdb
+D:\Shyful\EventLogApp\EventLogApp\obj\Debug\EventLogApp.exe
+D:\Shyful\EventLogApp\EventLogApp\obj\Debug\EventLogApp.pdb

@@ -1,0 +1,2 @@
+D:\Shyful\ActiveService\ActiveService\bin\Debug\ActiveService.exe.config
+D:\Shyful\ActiveService\ActiveService\obj\Debug\ActiveService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Shyful\ShowNumberApp\ShowNumberApp\bin\Debug\ShowNumberApp.exe.config
+D:\Shyful\ShowNumberApp\ShowNumberApp\bin\Debug\ShowNumberApp.exe
+D:\Shyful\ShowNumberApp\ShowNumberApp\bin\Debug\ShowNumberApp.pdb
+D:\Shyful\ShowNumberApp\ShowNumberApp\obj\Debug\ShowNumberApp.exe
+D:\Shyful\ShowNumberApp\ShowNumberApp\obj\Debug\ShowNumberApp.pdb

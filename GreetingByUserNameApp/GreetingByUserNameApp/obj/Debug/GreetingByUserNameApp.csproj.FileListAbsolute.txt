@@ -1,0 +1,5 @@
+D:\Shyful\GreetingByUserNameApp\GreetingByUserNameApp\bin\Debug\GreetingByUserNameApp.exe.config
+D:\Shyful\GreetingByUserNameApp\GreetingByUserNameApp\bin\Debug\GreetingByUserNameApp.exe
+D:\Shyful\GreetingByUserNameApp\GreetingByUserNameApp\bin\Debug\GreetingByUserNameApp.pdb
+D:\Shyful\GreetingByUserNameApp\GreetingByUserNameApp\obj\Debug\GreetingByUserNameApp.exe
+D:\Shyful\GreetingByUserNameApp\GreetingByUserNameApp\obj\Debug\GreetingByUserNameApp.pdb

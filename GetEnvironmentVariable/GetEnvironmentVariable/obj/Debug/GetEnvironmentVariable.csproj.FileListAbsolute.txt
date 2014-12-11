@@ -1,0 +1,6 @@
+D:\Shyful\GetEnvironmentVariable\GetEnvironmentVariable\bin\Debug\GetEnvironmentVariable.exe.config
+D:\Shyful\GetEnvironmentVariable\GetEnvironmentVariable\obj\Debug\GetEnvironmentVariable.csprojResolveAssemblyReference.cache
+D:\Shyful\GetEnvironmentVariable\GetEnvironmentVariable\bin\Debug\GetEnvironmentVariable.exe
+D:\Shyful\GetEnvironmentVariable\GetEnvironmentVariable\bin\Debug\GetEnvironmentVariable.pdb
+D:\Shyful\GetEnvironmentVariable\GetEnvironmentVariable\obj\Debug\GetEnvironmentVariable.exe
+D:\Shyful\GetEnvironmentVariable\GetEnvironmentVariable\obj\Debug\GetEnvironmentVariable.pdb

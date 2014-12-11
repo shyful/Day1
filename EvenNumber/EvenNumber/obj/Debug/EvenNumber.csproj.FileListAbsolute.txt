@@ -1,0 +1,5 @@
+D:\Shyful\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe.config
+D:\Shyful\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe
+D:\Shyful\EvenNumber\EvenNumber\bin\Debug\EvenNumber.pdb
+D:\Shyful\EvenNumber\EvenNumber\obj\Debug\EvenNumber.exe
+D:\Shyful\EvenNumber\EvenNumber\obj\Debug\EvenNumber.pdb
